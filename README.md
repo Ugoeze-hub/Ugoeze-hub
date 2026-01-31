@@ -1,28 +1,44 @@
-<h2 align="left">Hi 👋! My name is Ugoeze and I'm a Backend developer, from Nigeria</h2>
+<h2 align="left">Hi 👋🏽, I'm Ugoeze</h2>
 
-###
+<p align="left">
+Backend Developer | Statistics Undergraduate | Health & Data Enthusiast 🇳🇬
+</p>
 
-<p align="left">A backend developer with a passion for using technology to create innovative solutions, with growing expertise in Data Science and Machine Learning, alongside proficiency in Python and its frameworks. Thrives in team environments and is dedicated to building impactful tech-driven solutions.<br>Actively engages with tech communities and events to stay at the forefront of industry trends. Pursuing a degree in Statistics, aiming to combine her programming skills with the medical field to drive innovation and positive change.<br>With a commitment to lifelong learning, is always seeking opportunities to collaborate on tech projects, attend summits, and work with individuals who share her vision of using technology for good.</p>
+---
 
-###
+### About Me
+
+I’m a backend developer passionate about building **impactful, tech-driven solutions**, especially at the intersection of **data, healthcare, and software engineering**.
+
+- Strong in **Python** and backend frameworks  
+- Growing interest in **Data Science & Machine Learning**  
+- Thrive in **collaborative team environments**  
+- Studying **Statistics**, with a long-term goal of innovating in the **medical/health-tech space**
+- Constant learner who enjoys hackathons, summits, and tech communities
+
+---
+
+### Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" height="30" />
 </div>
 
-###
+---
+
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ugoeze-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
@@ -30,21 +46,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ugoeze-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### Connect With Me
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ugo_the_xplorer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugoeze-eluchie-0358382a8/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ugoeze-hub)
+
 </div>
 
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ugoeze-hub/ugoeze-hub/output/snake.svg" alt="Snake animation" />
-
-###
